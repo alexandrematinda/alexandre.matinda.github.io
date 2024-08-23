@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Alexandre MATINDA
-    tagline: Architecte solution et consultant cloud
+    tagline: 🚀 Consultant en Transformation Cloud | 💡 Consultant en Stratégie et Gouvernance Cloud | 💰Consultant FinOps
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -54,69 +54,47 @@ sidebar:
 career-profile:
     title: À propos de moi
     summary: |
-      Après avoir occupé avec succès des rôles d’expert technique, de chef de projet, de consultant et d’architecte dans le domaine de l’infrastructure et du Cloud, je mets mes compétences et mon expérience à votre disposition pour:
+      ✅ Avec plus de 10 ans d'expérience dans le domaine de l'infrastructure et du cloud, je me spécialise dans l'accompagnement des entreprises dans leur transition vers le cloud. J'interviens sur toutes les phases, de l'audit initial à la mise en œuvre de solutions cloud natives, en passant par la gestion de projets complexes et la sécurité.
 
-      - Tirer le meilleur des innovations technologiques;
-      - Améliorer votre compétitivité;
-      - Délivrer des services digitaux en solutionnant dès la conception les problématiques de gouvernance, de coût, de sécurité, de fiabilité et de performances.
+      💪 Ma mission est de tirer le meilleur des innovations technologiques pour améliorer la compétitivité de mes clients tout en garantissant la sécurité, la fiabilité, et l'efficacité des solutions mises en place. Mon approche se base sur une compréhension transverse des technologies cloud, ce qui me permet de proposer des solutions adaptées aux besoins spécifiques de chaque organisation.
 
-      Mes expériences passées m’ont permis d’acquérir une connaissance transverse de l’hébergement, du réseau, du stockage, des serveurs, de la virtualisation, du middleware et des applications.
-      Ceci me permet d’accompagner mes clients dans la mise en oeuvre de leurs projets Cloud tant sur les aspects techniques que fonctionnels.
-
-      Quelque soit l’outil (JIRA ou équivalent), j’apprécie fournir une vue claire et concise du projet offrant une compréhension et un pilotage optimale de ce dernier
-      Je suis en capacité de former et de promouvoir les bénéfices de Cloud à diverses populations tout en adaptant la cible à l’état d’esprit et au enjeux des métiers de mes clients.
-      Je peux vous accompagner dans la définition de votre stratégie et de vos standards Cloud en m’appuyant sur les bonnes pratiques en vigueur.
-
-      J’affectionne de rédiger les livrables en Markdown agrémenter de schémas facilitant la compréhension de l’architecture à différents niveaux. Je ne suis pas un développeur mais je suis en capacité d'implémenter l'ensemble des solutions que je conçois.
+      🚀 Je suis également passionné par le transfert de compétences, la formation, et l'accompagnement des équipes dans l'adoption des meilleures pratiques cloud. Que ce soit pour un audit de sécurité cloud, la conception d'une architecture cloud native, ou la mise en place d'une gouvernance efficace, je suis à votre disposition pour vous aider à réussir vos projets cloud.
 
 skills:
     title: Compétences techniques
     toolset:
       - name: AWS
-        level: 100%
-
+        level: 700%
       - name: GCP
-        level: 50%
-
+        level: 40%
       - name: Azure
         level: 40%
-
       - name: Scaleway
         level: 30%
-
+      - name: Kubernetes
+        level: 40%
       - name: Docker Compose
         level: 40%
-
       - name: Packer
         level: 20%
-
       - name: AWS CDK
         level: 30%
-
       - name: Terrafom
         level: 20%
-
       - name: Pulumi
         level: 40%
-
       - name: GitHub
         level: 40%
-
       - name: Gitlab
         level: 40%
-
       - name: JIRA
         level: 80%
-
       - name: MacOS
         level: 60%
-
       - name: Linux
         level: 60%
-
       - name: Windows
         level: 40%
-
       - name: Citrix
         level: 40%
 
@@ -152,7 +130,19 @@ experiences:
     title: Expériences
     info:
       - role: Architecte solution
-        time: 2019 - Present
+        time: 2024 - Aujourd'hui
+        company: FlowBank, Genève (Suisse)
+        details: |
+          - Fournir une vue d'ensemble des services actuels de banque tant au niveau fonctionnel que technique
+          - Contribuer à la stratégie d'amélioration et de stabilisation l'existant
+          - Contribuer à la définition des scénarios de migration de l'infrastructure
+          - Participer à la conception du "data lake"
+
+          Suite à l'annonce de la liquidation de la banque :
+          - Contribuer au décommissionnement des applications et de l'infrastructure sous-jacente.
+          - Contribuer à la conservation des données bancaires dans le respect des standards de sécurité et de confidentialité.
+      - role: Architecte solution
+        time: 2019 - 2024
         company: Europcar Mobility Groupe, Genève (Suisse)
         details: |
           Europcar Mobility Group vise à opérer une transition vers le Cloud. Afin de soutenir cette transformation, j'ai accompagné l'équipe Infrastructure et Transformation Cloud pour:
