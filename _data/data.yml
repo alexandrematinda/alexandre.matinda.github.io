@@ -40,7 +40,7 @@ sidebar:
           level: Courant
 
     # interests:
-    #   title: Centres d'intêrets
+    #   title: Centres D’Intérêts
     #   info:
     #     - item: Climbing
     #       link:
@@ -125,7 +125,7 @@ certifications:
 education:
     title: Formation
     info:
-      - degree: Dipôme d'ingénieur systèmes et réseaux
+      - degree: Diplôme d'ingénieur systèmes et réseaux
         university: ESME Sudria (France)
         time: 1999 - 2005
         # details: |
@@ -280,7 +280,7 @@ experiences:
         details: |
           Accompagnement à la refonte des infrastructures de sauvegarde.
           - Analyse de l’environnement de sauvegarde existant à base de NETWORKER, DPM et ARCSERVE UDP
-          - Collecte des nouveaux besoins et réflexions autour des scénarii d’évolution et de migration
+          - Collecte des nouveaux besoins et réflexions autour des scénarios d'évolutions et de migration
           - Aide au choix du scénario et rédaction de l’avant-projet détaillé
           - Définition du scénario et du calendrier de migration
       - role: Architecte stockage
@@ -297,7 +297,7 @@ experiences:
         details: |
           Accompagnement à la migration du système d’information vers Office 365
           - Collecte du besoin et état de l’art des approches Cloud possible
-          - Réflexion autour des scénarii d’évolution possible
+          - Réflexion autour des scénarios d'évolutions possibles
           - Définition et rédaction des procédures de migration
           - Assistance technique durant la migration
       - role: Consultant cloud
@@ -306,7 +306,7 @@ experiences:
         details: |
           État de l’art concernant Exchange et le Cloud
           - État de l’art des approches Cloud possible (privé, public et hybride) concernant la messagerie Exchange 2010
-          - Collecte du besoin et réflexion autour des scénarii d’évolution possible
+          - Collecte du besoin et réflexion autour des scénarios d'évolutions possibles
           - Assistance à appel d’offres des offres Cloud
       - role: Chef de projet technique
         time: 2013 - 2014
@@ -337,7 +337,7 @@ experiences:
           - Analyse de l’existant et définition de la cible :
           - État des lieux ; analyse des contraintes,
           - Classification des modèles systèmes/données,
-          - Définition des scénarii et des méthodes de migrations,
+          - Définition des scénarios et des méthodes de migrations,
           - Analyse des risques et impacts ; préconisation d’une architecture cible.
           - Suivi et coordination des opérations de relocalisation et de migration.
       - role: Consultant stockage
@@ -432,7 +432,7 @@ projects:
     assignments:
       - title: Wefactorit
         link: "https://wefactorit.com"
-        tagline: "Une société de conseil visant à améliorer la compétitivé des entreprises."
+        tagline: "Une société de conseil visant à améliorer la compétitivité des entreprises."
 
 # oss:
 #     title: OSS Contributions
