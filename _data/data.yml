@@ -55,9 +55,7 @@ career-profile:
     title: À propos de moi
     summary: |
       ✅ Avec plus de 10 ans d'expérience dans le domaine de l'infrastructure et du cloud, je me spécialise dans l'accompagnement des entreprises dans leur transition vers le cloud. J'interviens sur toutes les phases, de l'audit initial à la mise en œuvre de solutions cloud natives, en passant par la gestion de projets complexes et la sécurité.
-
       💪 Ma mission est de tirer le meilleur des innovations technologiques pour améliorer la compétitivité de mes clients tout en garantissant la sécurité, la fiabilité, et l'efficacité des solutions mises en place. Mon approche se base sur une compréhension transverse des technologies cloud, ce qui me permet de proposer des solutions adaptées aux besoins spécifiques de chaque organisation.
-
       🚀 Je suis également passionné par le transfert de compétences, la formation, et l'accompagnement des équipes dans l'adoption des meilleures pratiques cloud. Que ce soit pour un audit de sécurité cloud, la conception d'une architecture cloud native, ou la mise en place d'une gouvernance efficace, je suis à votre disposition pour vous aider à réussir vos projets cloud.
 
 skills:
@@ -102,6 +100,16 @@ certifications:
       title: Certifications
       list:
         - name: AWS Certified Solutions Architect – Associate
+          start: 2024
+          end: 2027
+          organization: Amazon Web services
+          credentialid: 
+          credentialurl: credly.com/badges/ee0c302a-f801-4432-8e39-ac08bcc9d47e/public_url
+          credentialname: Credly
+          details: |
+            La certification AWS Certified Solutions Architect - Associate met en évidence les connaissances et les compétences en matière de technologie AWS, à travers un large éventail de services AWS.
+            Cette certification est centrée sur la conception de solutions optimisées en termes de coûts et de performances, démontrant une solide compréhension du cadre AWS Well-Architected.
+        - name: AWS Certified Solutions Architect – Associate
           start: 2020
           end: 2023
           organization: Amazon Web services
@@ -109,7 +117,8 @@ certifications:
           credentialurl: credly.com/badges/9270db77-f312-47ff-986c-852a94fc3b38/public_url
           credentialname: Credly
           details: |
-            La certification AWS Certified Solutions Architect - Associate met en évidence les connaissances et les compétences en matière de technologie AWS, à travers un large éventail de services AWS. Cette certification est centrée sur la conception de solutions optimisées en termes de coûts et de performances, démontrant une solide compréhension du cadre AWS Well-Architected.
+            La certification AWS Certified Solutions Architect - Associate met en évidence les connaissances et les compétences en matière de technologie AWS, à travers un large éventail de services AWS.
+            Cette certification est centrée sur la conception de solutions optimisées en termes de coûts et de performances, démontrant une solide compréhension du cadre AWS Well-Architected.
        
 education:
     title: Formation
@@ -133,45 +142,45 @@ experiences:
         time: 2024 - Aujourd'hui
         company: FlowBank, Genève (Suisse)
         details: |
-          - Fournir une vue d'ensemble des services actuels de banque tant au niveau fonctionnel que technique
-          - Contribuer à la stratégie d'amélioration et de stabilisation l'existant
-          - Contribuer à la définition des scénarios de migration de l'infrastructure
-          - Participer à la conception du "data lake"
+          – Fournir une vue d'ensemble des services actuels de la banque tant au niveau fonctionnel que technique.
+          – Contribuer à la stratégie d'amélioration et de stabilisation de l'existant.
+          – Contribuer à la définition des scénarios de migration de l'infrastructure.
+          – Participer à la conception du « data lake »
+          – Optimisation des dépenses
 
-          Suite à l'annonce de la liquidation de la banque :
-          - Contribuer au décommissionnement des applications et de l'infrastructure sous-jacente.
-          - Contribuer à la conservation des données bancaires dans le respect des standards de sécurité et de confidentialité.
+          Suite à l'annonce de la FINMA (https://www.finma.ch/fr/news/2024/06/20240613-mm-flowbank/)  :
+          – Contribuer au décommissionnement des applications et de l'infrastructure sous-jacente.
+          – Contribuer à la conservation des données bancaires dans le respect des standards de sécurité et de confidentialité.
       - role: Architecte solution
         time: 2019 - 2024
         company: Europcar Mobility Groupe, Genève (Suisse)
         details: |
-          Europcar Mobility Group vise à opérer une transition vers le Cloud. Afin de soutenir cette transformation, j'ai accompagné l'équipe Infrastructure et Transformation Cloud pour:
-          - [1] Définir, piloter et déployer la première itération des fondations et des applications pilotes.
-          - [2] Concevoir l'architecture et participé à la migration des 71 applications (1761 serveurs) hébergées dans les data centers français (Europcar).
-          - [3] Concevoir l'architecture et participé à la migration des 30 applications (250 serveurs) hébergées dans les data centers espagnols (Goldcar).
-          
-          Phase 1 :
-          - Piloter la définition de la stratégie multi-cloud du groupe
-          - Piloter la définition de la feuille de route détaillée des projets techniques à mener.
-          - Piloter la définition et implémenter les fondations qui permettront de mettre en place le socle technique et méthodologique.
-          - Piloter la mise en place de la gouvernance et des bonnes pratiques de gestion.
-          - Documenter les éléments lister ci-dessus.
-          - Concevoir et déployer les applications pilotes de la migration.
-          - Piloter l'équipe d'intégration Cloud.
-          - Participer à l'évolution des fondations.
-          
-          Phase 2 :
-          - Mener des ateliers visant à mettre en place le programme MAP afin de profiter des optimisations opérationnelles et financières.
-          - Accompagner à la conduite du changement les différentes équipes
-          - Transfert de compétences sur les usages du Cloud.
-          - Concevoir les infrastructures visant à héberger des applications telles que SAP, Citrix, jusqu'aux applications mobiles "sans serveurs".
-          - Proposer des évolutions des applications afin de tirer partie des apports du Cloud
-          - Assurer le support technique durant les migrations.
-          
-          Phase 3 :
-          - Concevoir les infrastructures visant à héberger des applications telles que SAP, cluster MS SQL jusqu'à des micros services.
-          - Proposer des évolutions des applications afin de tirer partie des apports du Cloud
-          - Assurer le support technique durant les migrations.
+          Europcar Mobility Group vise à opérer une transition vers le Cloud. Afin de soutenir cette transformation, j'ai accompagné l'équipe Infrastructure et Transformation Cloud pour :
+
+          🎯 Phase 1 : Définir, piloter et déployer la première itération des fondations et le déploiement des applications pilotes.
+            – Piloter la définition de la stratégie multi-cloud du groupe
+            – Piloter la définition de la feuille de route détaillée des projets techniques à mener.
+            – Piloter la définition et implémenter les fondations qui permettront de mettre en place le socle technique et méthodologique.
+            – Piloter la mise en place de la gouvernance et des bonnes pratiques de gestion.
+            – Documenter les éléments listés ci-dessus.
+            – Concevoir et déployer les applications pilotes de la migration.
+            – Piloter l'équipe d'intégration Cloud.
+            – Former et outiller l'équipe FinOps
+            – Définir et faire évoluer les fondations.
+
+          🎯 Phase 2 : Concevoir l'architecture et participer à la migration des 71 applications (1761 serveurs) hébergées dans les data centers français (Europcar).
+            – Mener des ateliers visant à mettre en place le programme MAP afin de profiter des optimisations opérationnelles et financières.
+            – Accompagner dans la conduite du changement les différentes équipes.
+            – Transfert de compétences sur les usages du Cloud.
+            – Concevoir les infrastructures visant à héberger des applications telles que SAP, Citrix, jusqu'aux applications mobiles « sans serveur ».
+            – Proposer des évolutions des applications afin de tirer parti des apports du Cloud.
+            – Assurer le support technique durant les migrations.
+            – Déploiement d'un tableau de bord de suivi des dépenses inter-organisation
+
+          🎯 Phase 3 : Concevoir l'architecture et participer à la migration des 30 applications (250 serveurs) hébergées dans les data centers espagnols (Goldcar).
+            – Concevoir les infrastructures visant à héberger des applications telles que SAP, cluster MS SQL jusqu'à des microservices.
+            – Proposer des évolutions des applications afin de tirer parti des apports du Cloud.
+            – Assurer le support technique durant les migrations.         
 
       - role: Consultant infrastructure et Cloud
         time: 2018 - 2019
