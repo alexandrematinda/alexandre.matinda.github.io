@@ -55,7 +55,9 @@ career-profile:
     title: À propos de moi
     summary: |
       ✅ Avec plus de 10 ans d'expérience dans le domaine de l'infrastructure et du cloud, je me spécialise dans l'accompagnement des entreprises dans leur transition vers le cloud. J'interviens sur toutes les phases, de l'audit initial à la mise en œuvre de solutions cloud natives, en passant par la gestion de projets complexes et la sécurité.
+      
       💪 Ma mission est de tirer le meilleur des innovations technologiques pour améliorer la compétitivité de mes clients tout en garantissant la sécurité, la fiabilité, et l'efficacité des solutions mises en place. Mon approche se base sur une compréhension transverse des technologies cloud, ce qui me permet de proposer des solutions adaptées aux besoins spécifiques de chaque organisation.
+      
       🚀 Je suis également passionné par le transfert de compétences, la formation, et l'accompagnement des équipes dans l'adoption des meilleures pratiques cloud. Que ce soit pour un audit de sécurité cloud, la conception d'une architecture cloud native, ou la mise en place d'une gouvernance efficace, je suis à votre disposition pour vous aider à réussir vos projets cloud.
 
 skills:
@@ -99,7 +101,7 @@ skills:
 certifications:
       title: Certifications
       list:
-        - name: AWS Certified Solutions Architect – Associate
+        - name: AWS Certified Solutions Architect - Associate
           start: 2024
           end: 2027
           organization: Amazon Web services
@@ -109,7 +111,7 @@ certifications:
           details: |
             La certification AWS Certified Solutions Architect - Associate met en évidence les connaissances et les compétences en matière de technologie AWS, à travers un large éventail de services AWS.
             Cette certification est centrée sur la conception de solutions optimisées en termes de coûts et de performances, démontrant une solide compréhension du cadre AWS Well-Architected.
-        - name: AWS Certified Solutions Architect – Associate
+        - name: AWS Certified Solutions Architect - Associate
           start: 2020
           end: 2023
           organization: Amazon Web services
@@ -139,18 +141,18 @@ experiences:
     title: Expériences
     info:
       - role: Architecte solution
-        time: 2024 - Aujourd'hui
+        time: 2024 - 2024
         company: FlowBank, Genève (Suisse)
         details: |
-          – Fournir une vue d'ensemble des services actuels de la banque tant au niveau fonctionnel que technique.
-          – Contribuer à la stratégie d'amélioration et de stabilisation de l'existant.
-          – Contribuer à la définition des scénarios de migration de l'infrastructure.
-          – Participer à la conception du « data lake »
-          – Optimisation des dépenses
+          - Fournir une vue d'ensemble des services actuels de la banque tant au niveau fonctionnel que technique.
+          - Contribuer à la stratégie d'amélioration et de stabilisation de l'existant.
+          - Contribuer à la définition des scénarios de migration de l'infrastructure.
+          - Participer à la conception du « data lake »
+          - Optimisation des dépenses
 
           Suite à l'annonce de la FINMA (https://www.finma.ch/fr/news/2024/06/20240613-mm-flowbank/)  :
-          – Contribuer au décommissionnement des applications et de l'infrastructure sous-jacente.
-          – Contribuer à la conservation des données bancaires dans le respect des standards de sécurité et de confidentialité.
+          - Contribuer au décommissionnement des applications et de l'infrastructure sous-jacente.
+          - Contribuer à la conservation des données bancaires dans le respect des standards de sécurité et de confidentialité.
       - role: Architecte solution
         time: 2019 - 2024
         company: Europcar Mobility Groupe (France)
@@ -158,112 +160,112 @@ experiences:
           Europcar Mobility Group vise à opérer une transition vers le Cloud. Afin de soutenir cette transformation, j'ai accompagné l'équipe Infrastructure et Transformation Cloud pour :
 
           🎯 Phase 1 : Définir, piloter et déployer la première itération des fondations et le déploiement des applications pilotes.
-            – Piloter la définition de la stratégie multi-cloud du groupe
-            – Piloter la définition de la feuille de route détaillée des projets techniques à mener.
-            – Piloter la définition et implémenter les fondations qui permettront de mettre en place le socle technique et méthodologique.
-            – Piloter la mise en place de la gouvernance et des bonnes pratiques de gestion.
-            – Documenter les éléments listés ci-dessus.
-            – Concevoir et déployer les applications pilotes de la migration.
-            – Piloter l'équipe d'intégration Cloud.
-            – Former et outiller l'équipe FinOps
-            – Définir et faire évoluer les fondations.
+            - Piloter la définition de la stratégie multi-cloud du groupe
+            - Piloter la définition de la feuille de route détaillée des projets techniques à mener.
+            - Piloter la définition et implémenter les fondations qui permettront de mettre en place le socle technique et méthodologique.
+            - Piloter la mise en place de la gouvernance et des bonnes pratiques de gestion.
+            - Documenter les éléments listés ci-dessus.
+            - Concevoir et déployer les applications pilotes de la migration.
+            - Piloter l'équipe d'intégration Cloud.
+            - Former et outiller l'équipe FinOps
+            - Définir et faire évoluer les fondations.
 
           🎯 Phase 2 : Concevoir l'architecture et participer à la migration des 71 applications (1761 serveurs) hébergées dans les data centers français (Europcar).
-            – Mener des ateliers visant à mettre en place le programme MAP afin de profiter des optimisations opérationnelles et financières.
-            – Accompagner dans la conduite du changement les différentes équipes.
-            – Transfert de compétences sur les usages du Cloud.
-            – Concevoir les infrastructures visant à héberger des applications telles que SAP, Citrix, jusqu'aux applications mobiles « sans serveur ».
-            – Proposer des évolutions des applications afin de tirer parti des apports du Cloud.
-            – Assurer le support technique durant les migrations.
-            – Déploiement d'un tableau de bord de suivi des dépenses inter-organisation
+            - Mener des ateliers visant à mettre en place le programme MAP afin de profiter des optimisations opérationnelles et financières.
+            - Accompagner dans la conduite du changement les différentes équipes.
+            - Transfert de compétences sur les usages du Cloud.
+            - Concevoir les infrastructures visant à héberger des applications telles que SAP, Citrix, jusqu'aux applications mobiles « sans serveur ».
+            - Proposer des évolutions des applications afin de tirer parti des apports du Cloud.
+            - Assurer le support technique durant les migrations.
+            - Déploiement d'un tableau de bord de suivi des dépenses inter-organisation
 
           🎯 Phase 3 : Concevoir l'architecture et participer à la migration des 30 applications (250 serveurs) hébergées dans les data centers espagnols (Goldcar).
-            – Concevoir les infrastructures visant à héberger des applications telles que SAP, cluster MS SQL jusqu'à des microservices.
-            – Proposer des évolutions des applications afin de tirer parti des apports du Cloud.
-            – Assurer le support technique durant les migrations.         
+            - Concevoir les infrastructures visant à héberger des applications telles que SAP, cluster MS SQL jusqu'à des microservices.
+            - Proposer des évolutions des applications afin de tirer parti des apports du Cloud.
+            - Assurer le support technique durant les migrations.         
 
       - role: Consultant infrastructure et Cloud
         time: 2018 - 2019
         company: Generali, Saint-Denis (France)
         details: |
           Generali ambitionne de migrer une grande partie de son système d’information vers le Cloud à l’horizon 2022. En préalable à cette migration, j’ai été missionné pour accompagner la mise en place des socles méthodologique, organisationnel et technologique afin de fédérer les usages et les pratiques autour du Cloud. Cette préparation passe notamment par :
-          – Un état des lieux
-          – La construction d’une équipe SRE
-          – La définition d’un cadre méthodologique et collaboratif (autour des philosophies AGILE et DEVOPS)
-          – L’industrialisation et l’automatisation des tâches chronophages
-          – La mise en place d’un catalogue de services Cloud
-          – L’accompagnement d’un projet de type micro-service mettant en œuvre le cadre défini.
+          - Un état des lieux
+          - La construction d’une équipe SRE
+          - La définition d’un cadre méthodologique et collaboratif (autour des philosophies AGILE et DEVOPS)
+          - L’industrialisation et l’automatisation des tâches chronophages
+          - La mise en place d’un catalogue de services Cloud
+          - L’accompagnement d’un projet de type micro-service mettant en œuvre le cadre défini.
       - role: Architecte cloud
         time: 2018 - 2018
         company: Enedis, Paris (France)
         details: |
           Dans la continuité de ma prestation précédente, j’ai accompagné ENEDIS pour concevoir la plateforme de Cloud privée en réalisant les actions suivantes.
-          – Conception de la plateforme :
-          – Gouvernance (Build + Run)
-          – High Level Design et Low Level Design, hébergement, avec prise en compte des exigences métier et de sécurité
-          – Conception des services : définition et conception de l’ensemble des services d’infrastructure portés par la future plateforme à destination des applications et des équipes Devops.
-          – Accompagnement du projet en agile sous la méthodologie Safe (création et suivi du SolutionIntent)
+          - Conception de la plateforme :
+          - Gouvernance (Build + Run)
+          - High Level Design et Low Level Design, hébergement, avec prise en compte des exigences métier et de sécurité
+          - Conception des services : définition et conception de l’ensemble des services d’infrastructure portés par la future plateforme à destination des applications et des équipes Devops.
+          - Accompagnement du projet en agile sous la méthodologie Safe (création et suivi du SolutionIntent)
       - role: Consultant cloud
         time: 2017 - 2018
         company: Enedis, Paris (France)
         details: |
           Enedis souhaite déployer un cloud privé pour héberger les applications du programme LINKY, programme ayant pour ambition de déployer des compteurs communiquant sur l’ensemble du territoire français. En 2021, 35 millions de compteurs seront déployés (plus de 12 000 VM). Pour respecter ces engagements, il a été nécessaire de faire évoluer l’infrastructure existante et de répondre aux besoins majeurs du futur programme :
 
-          – Robustesse/efficience : garantir le bon fonctionnement (performance/SLA) du système en production.
-          – Élasticité/agilité : accroître la capacité à réagir et à s’adapter rapidement (scalabilité automatique)
-          – Automatisation : Traiter les besoins standards de manière autonome en quelques minutes.
-          – Pilotabilité : surveiller sur l’ensemble des couches et bénéficier d’un maximum de métriques.
-          – Sécurité : satisfaire aux exigences de sécurité du groupe
+          - Robustesse/efficience : garantir le bon fonctionnement (performance/SLA) du système en production.
+          - Élasticité/agilité : accroître la capacité à réagir et à s’adapter rapidement (scalabilité automatique)
+          - Automatisation : Traiter les besoins standards de manière autonome en quelques minutes.
+          - Pilotabilité : surveiller sur l’ensemble des couches et bénéficier d’un maximum de métriques.
+          - Sécurité : satisfaire aux exigences de sécurité du groupe
 
           Dans ce contexte, je suis intervenu pour contribuer :
 
-          – Au recueil des besoins
-          – À la réalisation de 3 PoC réalisés, dont deux réussites, et à la rédaction des supports de restitution sous forme de synthèse managériale.
-          – À la rédaction d’un dossier de décision à destination du COMEX (validation et lancement du projet)
+          - Au recueil des besoins
+          - À la réalisation de 3 PoC réalisés, dont deux réussites, et à la rédaction des supports de restitution sous forme de synthèse managériale.
+          - À la rédaction d’un dossier de décision à destination du COMEX (validation et lancement du projet)
       - role: Architecte infrastructure et cloud
         time: 2016 - 2017
         company: Danone, Saint-Ouen (France)
         details: |
-          – Étude d'opportunité IaaS : consultation de 16 fournisseurs (Cloud et Télécom) pour évaluer l'opportunité de rationaliser et migrer les 300 salles informatiques (environ 4500 serveurs) en région (Amériques, EMEA, APAC et Russie) vers un nombre limité de points de présence.
-          – Mise à jour de l’état des lieux (inventaires et coût actuel)
-          – Définition de la trajectoire des serveurs et des applications
-          – Rédaction du cahier des charges autour des axes suivants :
-            – Services d’infrastructure (AD, RDP, antivirus, sauvegarde, télémaintenance, DHCP, service d’impression, serveurs de fichier, WSUS, supervision)
-            – Services réseau (colocation, Internet, firewall)
-            – Sécurité
-            – Accompagnement au déploiement
-          – Soutenances et présentation des offres fournisseurs
-          – Dimensionnement des architectures cibles (réseau, services d'infrastructure, secours)
-          – Évaluation technique et financière des offres au travers d'ateliers avec les fournisseurs.
-            – Ateliers pour dimensionner les services d’infrastructures en fonction des offres de service des fournisseurs
-            – Atelier pour choisir les points de présence et de colocation en fonction des contraintes réseaux (IPSEC, MPLS)
-            – Ateliers pour valider les hypothèses financières
-            – Réalisation d’une maquette pour évaluer la solution technique et le portail du fournisseur
-          – Configuration réseau (AZ, VPC, Security Group)
-          – Provisionnement des serveurs (AMI, import VMDK)
-          – Utilisation des services PaaS (RDS, S3)
-          – Réalisation des dossiers d’évaluation de solution SaaS axés sur les aspects sécurité et techniques.
-          – Réalisation d’études de design liées à l’implémentation de nouvelles applications ou à la mise à jour d’applications existantes
-          – Animation d’ateliers avec les régions (Amériques, EMEA, APAC et Russie) liés à la définition et à la mise en place de standards d’architecture.
-          – Rédaction et mise à jour des dossiers d'architectures
-          – Suivi des mises en œuvre et validation des environnements
+          - Étude d'opportunité IaaS : consultation de 16 fournisseurs (Cloud et Télécom) pour évaluer l'opportunité de rationaliser et migrer les 300 salles informatiques (environ 4500 serveurs) en région (Amériques, EMEA, APAC et Russie) vers un nombre limité de points de présence.
+          - Mise à jour de l’état des lieux (inventaires et coût actuel)
+          - Définition de la trajectoire des serveurs et des applications
+          - Rédaction du cahier des charges autour des axes suivants :
+            - Services d’infrastructure (AD, RDP, antivirus, sauvegarde, télémaintenance, DHCP, service d’impression, serveurs de fichier, WSUS, supervision)
+            - Services réseau (colocation, Internet, firewall)
+            - Sécurité
+            - Accompagnement au déploiement
+          - Soutenances et présentation des offres fournisseurs
+          - Dimensionnement des architectures cibles (réseau, services d'infrastructure, secours)
+          - Évaluation technique et financière des offres au travers d'ateliers avec les fournisseurs.
+            - Ateliers pour dimensionner les services d’infrastructures en fonction des offres de service des fournisseurs
+            - Atelier pour choisir les points de présence et de colocation en fonction des contraintes réseaux (IPSEC, MPLS)
+            - Ateliers pour valider les hypothèses financières
+            - Réalisation d’une maquette pour évaluer la solution technique et le portail du fournisseur
+          - Configuration réseau (AZ, VPC, Security Group)
+          - Provisionnement des serveurs (AMI, import VMDK)
+          - Utilisation des services PaaS (RDS, S3)
+          - Réalisation des dossiers d’évaluation de solution SaaS axés sur les aspects sécurité et techniques.
+          - Réalisation d’études de design liées à l’implémentation de nouvelles applications ou à la mise à jour d’applications existantes
+          - Animation d’ateliers avec les régions (Amériques, EMEA, APAC et Russie) liés à la définition et à la mise en place de standards d’architecture.
+          - Rédaction et mise à jour des dossiers d'architectures
+          - Suivi des mises en œuvre et validation des environnements
       - role: Consultant infrastructure
         time: 2016 - 2016
         company: AG2R la mondiale (France)
         details: |
           Dans le cadre du projet de convergence des infrastructures des serveurs et de stockage de l’ensemble de ses entités, le groupe AG2R La Mondiale a souhaité procéder à un audit qui avait pour objectifs de :
-          – Dresser un état des lieux des différents environnements de services dans les entités AG2R La Mondiale et Réunica Systalians historiques.
-          – Relier cet état des lieux aux différents coûts d’achat et de maintenance.
-          – Recenser l'ensemble des indicateurs de capacité et de charges publiés pour permettre d'anticiper les futurs investissements.
-          – Mettre à plat l’existant et de préparer dans le cadre de la réorganisation des services chargés de ces éléments une nouvelle stratégie commune pour les 3 prochaines années.
+          - Dresser un état des lieux des différents environnements de services dans les entités AG2R La Mondiale et Réunica Systalians historiques.
+          - Relier cet état des lieux aux différents coûts d’achat et de maintenance.
+          - Recenser l'ensemble des indicateurs de capacité et de charges publiés pour permettre d'anticiper les futurs investissements.
+          - Mettre à plat l’existant et de préparer dans le cadre de la réorganisation des services chargés de ces éléments une nouvelle stratégie commune pour les 3 prochaines années.
       - role: Consultant infrastructure
         time: 2015 - 2016
         company: Société générale (France)
         details: |
           Chaque année, le département GTS édite une note de stratégie technique qui détaille la direction que va prendre la société pour les années à venir. La note s’oriente autour de thèmes comme le réseau, les centres informatiques, les postes de travail, les aspects hébergement et la sécurité. De cette trajectoire découle un certain nombre d’actions portées par des communautés techniques qui doivent les suivre et les exécuter.
-          – Élaboration, livraison et suivi d’un tableau de bord englobant les dimensions techniques, organisationnelles, temporelles, financières et risques.
-          – État des lieux des communautés techniques et définition d’un plan d’amélioration.
-          – Animation des communautés techniques et assistance à la gestion de projet des communautés.
+          - Élaboration, livraison et suivi d’un tableau de bord englobant les dimensions techniques, organisationnelles, temporelles, financières et risques.
+          - État des lieux des communautés techniques et définition d’un plan d’amélioration.
+          - Animation des communautés techniques et assistance à la gestion de projet des communautés.
       - role: Architecte solution
         time: 2015 - 2015
         company: SNCF Connect (France)
@@ -471,7 +473,7 @@ projects:
 #       - title: A syntax directed compiler for Algol 60
 #         link: "#"
 #         authors: Edgar T. Irons
-#         conference: "Comm. ACM 4 (1961), 51–55"
+#         conference: "Comm. ACM 4 (1961), 51-55"
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
