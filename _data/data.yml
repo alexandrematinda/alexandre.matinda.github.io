@@ -153,7 +153,7 @@ experiences:
           – Contribuer à la conservation des données bancaires dans le respect des standards de sécurité et de confidentialité.
       - role: Architecte solution
         time: 2019 - 2024
-        company: Europcar Mobility Groupe, Genève (Suisse)
+        company: Europcar Mobility Groupe (France)
         details: |
           Europcar Mobility Group vise à opérer une transition vers le Cloud. Afin de soutenir cette transformation, j'ai accompagné l'équipe Infrastructure et Transformation Cloud pour :
 
@@ -186,14 +186,13 @@ experiences:
         time: 2018 - 2019
         company: Generali, Saint-Denis (France)
         details: |
-          Generali ambitionne de migrer une grande partie de son système d’information vers le Cloud à horizon 2022. En préalable à cette migration, j’ai été missionné pour accompagner la mise en place des socles méthodologique, organisationnel et technologique afin de fédérer les usages et les pratiques autour du Cloud. Cette préparation passe notamment par:
-
-          - Un état des lieux
-          - La construction d’une équipe SRE
-          - La définition d’un cadre méthodologique et collaboratif (autour des philosophie AGILE et DEVOPS)
-          - L’industrialisation et l’automatisation des tâches chronophage
-          - La mise en place d’un catalogue de services Cloud
-          - L’accompagnement d’un projet de type micro-service mettant en œuvre le cadre défini
+          Generali ambitionne de migrer une grande partie de son système d’information vers le Cloud à l’horizon 2022. En préalable à cette migration, j’ai été missionné pour accompagner la mise en place des socles méthodologique, organisationnel et technologique afin de fédérer les usages et les pratiques autour du Cloud. Cette préparation passe notamment par :
+          – Un état des lieux
+          – La construction d’une équipe SRE
+          – La définition d’un cadre méthodologique et collaboratif (autour des philosophies AGILE et DEVOPS)
+          – L’industrialisation et l’automatisation des tâches chronophages
+          – La mise en place d’un catalogue de services Cloud
+          – L’accompagnement d’un projet de type micro-service mettant en œuvre le cadre défini.
       - role: Architecte cloud
         time: 2018 - 2018
         company: Enedis, Paris (France)
@@ -250,7 +249,7 @@ experiences:
           - Suivi des mises en œuvre et validation des environnements
       - role: Consultant infrastructure
         time: 2016 - 2016
-        company: AG2R la mondiale, Courbevoie (France)
+        company: AG2R la mondiale (France)
         details: |
           Dans le cadre du projet de convergence des infrastructures des serveurs et stockage de l’ensemble de ses entités, le groupe AG2R La Mondiale a souhaité procéder à un audit qui avait pour objectifs de :
           - Dresser un état des lieux des différents environnements en services dans les entités AG2R La Mondiale et Réunica Systalians historique.
@@ -259,7 +258,7 @@ experiences:
           - Mettre à plat l’existant et de préparer dans le cadre de la réorganisation des services en charge de ces éléments une nouvelle stratégie commune pour les 3 prochaines années
       - role: Consultant infrastructure
         time: 2015 - 2016
-        company: Société générale, La Défense (France)
+        company: Société générale (France)
         details: |
           Chaque année le département GTS édite une note de stratégie technique qui détaille la direction que va prendre la société pour les années à venir. La note s’oriente autour de thème comme le réseau, les centres informatiques, les postes de travail, les aspects hébergements et la sécurité. De cette trajectoire découle un certain nombre d’actions portées par des communautés techniques qui doivent les suivre et les exécuter.
           - Élaboration, livraison et suivi d’un tableau bord englobant les dimensions techniques, organisationnelles, temporelles, financières et risques
@@ -267,7 +266,7 @@ experiences:
           - Animation des communautés techniques et assistance à la gestion de projet des communautés
       - role: Architecte solution
         time: 2015 - 2015
-        company: SNCF Connect, La Défense (France)
+        company: SNCF Connect (France)
         details: |
           - Rédactions des DAT projets et maintien du référentiel documentaire
           - Suivi des mises en œuvre et validation des environnements déployées grâce à une usine logicielle
@@ -275,7 +274,7 @@ experiences:
           - Validation de fichiers Yaml, des environnements et des flux
       - role: Architecte infrastructure
         time: 2014 - 2015
-        company: Agence Française de Développement, Paris (France)
+        company: Agence Française de Développement(France)
         details: |
           Accompagnement à la refonte des infrastructures de sauvegarde.
           - Analyse de l’environnement de sauvegarde existant à base de NETWORKER, DPM et ARCSERVE UDP
@@ -284,7 +283,7 @@ experiences:
           - Définition du scénario et du calendrier de migration
       - role: Architecte stockage
         time: 2014 - 2014
-        company: Areva, Courbevoie (France)
+        company: Areva(France)
         details: |
           Conseil autour du stockage
           - Réflexion autour de la gestion de la capacité des baies de stockage HDS VSP afin d’optimiser l’allocation de volumétrie faite sur les clusters et ESX.
@@ -292,7 +291,7 @@ experiences:
           - Assistance technique auprès d’AREVA autour du stockage
       - role: Consultant cloud
         time: 2014 - 2014
-        company: BSM, Paris (France)
+        company: BSM (France)
         details: |
           Accompagnement à la migration du système d’information vers Office 365
           - Collecte du besoin et état de l’art des approches Cloud possible
@@ -301,7 +300,7 @@ experiences:
           - Assistance technique durant la migration
       - role: Consultant cloud
         time: 2013 - 2013
-        company: Total DSIT, La Défense (France)
+        company: Total DSIT (France)
         details: |
           État de l’art concernant Exchange et le Cloud
           - État de l’art des approches Cloud possible (privé, public et hybride) concernant la messagerie Exchange 2010
@@ -309,7 +308,7 @@ experiences:
           - Assistance à appel d’offres des offres Cloud
       - role: Chef de projet technique
         time: 2013 - 2014
-        company: Chanel, Neuilly-sur-Seine (France)
+        company: Chanel (France)
         details: |
           Appui, pilotage et coordination de projets
             - Adjoint au responsable de la production afin de l’épauler dans ses activités vis-à-vis de l’infogérance EURIWARE
@@ -317,7 +316,7 @@ experiences:
             - Assistance à l’intégration des applications (aide à la vente, suivi clients, smartphone) sur des environnements Windows 2012 virtualisé sous VMWARE 5
       - role: Architecte stockage
         time: 2012 - 2013
-        company: GRT Gaz, Saint-Ouen (France)
+        company: GRT Gaz(France)
         details: |
           Conduite de projet et Conseil en ingénierie système/données
           Conception et mise en œuvre du socle de désimbrication GRTGAZ dans le cadre du projet de séparation et de reprise de la production et de la conduite du programme de désimbrication.
@@ -329,7 +328,7 @@ experiences:
           - Industrialisation des processus de désimbrication
       - role: Chef de projet technique
         time: 2012 - 2012
-        company: Total exploration et production, La Défense (France)
+        company: Total exploration et production (France)
         details: |
           Coordination de projet et conseil en ingénierie système et données.
           Première phase de la migration du centre informatique de la tour Coupole situé à la Défense vers le centre EQUINIX situé à Saint-Denis dont la logistique était assurée par IBM.
@@ -341,35 +340,35 @@ experiences:
           - Suivi et coordination des opérations de relocalisation et de migration.
       - role: Consultant stockage
         time: 2011 - 2011
-        company: Société Générale, Tigery (France)
+        company: Société Générale (France)
         details: |
           Assistance à l’optimisation des infrastructures de stockage
           - Cartographie des infrastructures de stockage et analyse des données stockées.
           - Élaboration des préconisations d’amélioration.
       - role: Consultant stockage
         time: 2011 - 2011
-        company: CNP assurance, Paris (France)
+        company: CNP assurance (France)
         details: |
           Accompagnement à la conduite d’un appel d’offre autour du stockage
           - Rédaction du cahier des charges
           - Analyse, soutenances et notation des offres
       - role: Consultant stockage
         time: 2011 - 2011
-        company: CNP assurance, Paris (France)
+        company: CNP assurance (France)
         details: |
           Accompagnement à la conduite d’un appel d’offre autour du stockage
           - Rédaction du cahier des charges
           - Analyse, soutenances et notation des offres
       - role: Consultant stockage
         time: 2011 - 2011
-        company: Société Générale retail, Val de Fontenay (France)
+        company: Société Générale retail (France)
         details: |
           Accompagnement à la conduite d’un appel d’offre autour du stockage
           - Rédaction du cahier des charges
           - Analyse, soutenances et notation des offres
       - role: Consultant stockage
         time: 2011 - 2011
-        company: MMA, Le Mans (France)
+        company: MMA (France)
         details: |
           Migration de données de baies EMC2 VMAX vers Hitachi VSP
           - Élaboration et fourniture des procédures de migration
@@ -377,7 +376,7 @@ experiences:
           - Fourniture des procédures de migration
       - role: Consultant stockage et sauvegarde
         time: 2010 - 2010
-        company: MMA, Le Mans (France)
+        company: MMA (France)
         details: |
           Consolidation de l’infrastructure de stockage
           - Pilotage du projet
@@ -385,7 +384,7 @@ experiences:
           - Analyse du besoin, étude de l’existant
       - role: Consultant stockage et sauvegarde
         time: 2010 - 2011
-        company: Télintrans, Rungis (France)
+        company: Télintrans (France)
         details: |
           Consolidation de l’infrastructure de stockage
           - Pilotage du projet
@@ -393,7 +392,7 @@ experiences:
           - Analyse du besoin, étude de l’existant
       - role: Consultant stockage et sauvegarde
         time: 2009 - 2010
-        company: Servier, Courbevoie (France)
+        company: Servier (France)
         details: |
           Mise en place d’un PRA stockage national
           - Analyse du besoin, étude de l’existant.
@@ -401,7 +400,7 @@ experiences:
           - Formation et procédure d’exploitation.
       - role: Consultant stockage et sauvegarde
         time: 2009 - 2009
-        company: Hôpital Américain de Paris, Neuilly-sur-Seine (France)
+        company: Hôpital Américain de Paris (France)
         details: |
           Migration de stockage
           - Analyse du besoin, étude de l’existant.
@@ -409,14 +408,14 @@ experiences:
           - Formation et procédure d’exploitation.
       - role: Administrateur stockage et sauvegarde
         time: 2007 - 2008
-        company: Natixis, Lognes (France)
+        company: Natixis (France)
         details: |
           - Maintien en condition opérationnelle des infrastructures de stockage et de sauvegarde.
           - Projet de migration TSM.
           - Migration de librairie
       - role: Administrateur stockage et sauvegarde
         time: 2005 - 2007
-        company: Allianz, La Défense (France)
+        company: Allianz (France)
         details: |
           - Maintien en condition opérationnelle de l’infrastructure
           - Projet de migration Netbackup.
